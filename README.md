@@ -1,6 +1,6 @@
 ### I'm William 👋
 
-I'm an 15-year-old freelance and founder.
+I'm an 15-year-old freelancer and founder.
 
 ## 🔭 Current
 
