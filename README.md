@@ -1,10 +1,10 @@
 ### I'm William 👋
 
-I'm an 15-year-old freelancer and founder.
+I'm a freelancer + founder from Sweden.
 
 ## 🔭 Current
 
-I'm currently working on [The Nitrous Group](https://nitrous.group) - it's an agency specilized in marketing and digital design. We're currently focussing on expanding our offering of services to current customers and possible customers.
+I'm currently working on [Newgent Digital](https://newgentdigital.com) - it's an agency specilized in marketing and digital design. We're currently focussing on expanding our offering of services to current customers and possible customers.
 
 ## 📫 Contact
 
