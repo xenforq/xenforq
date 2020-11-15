@@ -30,15 +30,14 @@ I'm William Hallin or better known as xenforq in the online universe. A designer
 ### 📞 Contact me 
 Do you have any questions for me? Got interests in collaborating? Maybe wanna chat about whatever for a bit? 
 
-You've got multiple ways to contact me; pick freely how you want to reach me. <a href="https://t.me/xenforq" target="_blank">Telegram</a> and Discord (xenforq#0001) are the preferred options for me; you'll also be getting a faster response out of me then—but if <a href="https://twitter.com/xenforq" target="_blank">Twitter</a>, <a href="http://m.me/xenforq" target="_blank">Messenger</a>, or <a href="mailto:hello@xenforq.com?subject=Hey William!">email</a> fits you better, then I don't mind. 
+You've got multiple ways to contact me; pick freely how you want to reach me. <a href="https://t.me/xenforq" target="_blank">Telegram</a> and Discord (xenforq#0001) are the preferred options for me; you'll also be getting a faster response out of me then—but if <a href="https://twitter.com/xenforq" target="_blank">Twitter</a> or <a href="mailto:hello@xenforq.com?subject=Hey William!">email</a> fits you better, then I don't mind. 
 
 <!-- hr -->
 <hr>
 
 <!-- ACTIVITY -->
-### 🔎 Recent activity
+### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!-- hr -->
 <hr>
