@@ -39,7 +39,6 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
 
-
 <!-- hr -->
 <hr>
 
