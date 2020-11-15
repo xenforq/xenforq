@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Revenact/Pterodactyl-Script/pull/24) in [Revenact/Pterodactyl-Script](https://github.com/Revenact/Pterodactyl-Script)
-2. 🗣 Commented on [#4](https://github.com/Hexer10/HexTags/issues/4) in [Hexer10/HexTags](https://github.com/Hexer10/HexTags)
-3. 🗣 Commented on [#92](https://github.com/vultr/whmcs-vultr/issues/92) in [vultr/whmcs-vultr](https://github.com/vultr/whmcs-vultr)
-4. 🗣 Commented on [#92](https://github.com/vultr/whmcs-vultr/issues/92) in [vultr/whmcs-vultr](https://github.com/vultr/whmcs-vultr)
-5. ❗️ Opened issue [#41](https://github.com/OpenTTD/team/issues/41) in [OpenTTD/team](https://github.com/OpenTTD/team)
+1. ❌ Closed PR [#1](https://github.com/xenforq/instadefuse/pull/1) in [xenforq/instadefuse](https://github.com/xenforq/instadefuse)
+2. 🗣 Commented on [#1](https://github.com/xenforq/instadefuse/issues/1) in [xenforq/instadefuse](https://github.com/xenforq/instadefuse)
+3. 💪 Opened PR [#1](https://github.com/xenforq/instadefuse/pull/1) in [xenforq/instadefuse](https://github.com/xenforq/instadefuse)
+4. 💪 Opened PR [#24](https://github.com/Revenact/Pterodactyl-Script/pull/24) in [Revenact/Pterodactyl-Script](https://github.com/Revenact/Pterodactyl-Script)
+5. 🗣 Commented on [#4](https://github.com/Hexer10/HexTags/issues/4) in [Hexer10/HexTags](https://github.com/Hexer10/HexTags)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
