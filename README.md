@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#414](https://github.com/papercups-io/papercups/issues/414) in [papercups-io/papercups](https://github.com/papercups-io/papercups)
-2. 🎉 Merged PR [#3](https://github.com/xenforq/instadefuse/pull/3) in [xenforq/instadefuse](https://github.com/xenforq/instadefuse)
-3. ❗️ Closed issue [#2](https://github.com/xenforq/instadefuse/issues/2) in [xenforq/instadefuse](https://github.com/xenforq/instadefuse)
-4. 🗣 Commented on [#2](https://github.com/xenforq/instadefuse/issues/2) in [xenforq/instadefuse](https://github.com/xenforq/instadefuse)
-5. 🗣 Commented on [#2](https://github.com/xenforq/instadefuse/issues/2) in [xenforq/instadefuse](https://github.com/xenforq/instadefuse)
+1. ❗️ Reopened issue [#414](https://github.com/papercups-io/papercups/issues/414) in [papercups-io/papercups](https://github.com/papercups-io/papercups)
+2. 🗣 Commented on [#414](https://github.com/papercups-io/papercups/issues/414) in [papercups-io/papercups](https://github.com/papercups-io/papercups)
+3. ❗️ Closed issue [#414](https://github.com/papercups-io/papercups/issues/414) in [papercups-io/papercups](https://github.com/papercups-io/papercups)
+4. 🗣 Commented on [#414](https://github.com/papercups-io/papercups/issues/414) in [papercups-io/papercups](https://github.com/papercups-io/papercups)
+5. ❗️ Opened issue [#414](https://github.com/papercups-io/papercups/issues/414) in [papercups-io/papercups](https://github.com/papercups-io/papercups)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
