@@ -49,10 +49,10 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <hr>
 
 <!-- GITHUB STATS -->
-<h4 align="center">Statistics for nerds 📊</h4>
-<p align="center">Okay, I must admit, I find these stats amusing myself. I hope that makes you feel less left out.</p>
+### Statistics for nerds 📊
+Okay, I must admit, I find these stats amusing myself. I hope that makes you feel less left out.</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xenforq&count_private=true&show_icons=true&text_color=1d1d1d&title_color=1d1d1d&icon_color=1d1d1d" alt="An image showing summarized stats on GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenforq&title_color=1d1d1d&langs_count=3" alt="An image showing summarized stats on GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenforq&layout=compact&title_color=1d1d1d&langs_count=3" alt="An image showing summarized stats on GitHub">
 </p>
