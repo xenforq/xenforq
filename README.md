@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/newgentdigital/kloey/issues/5) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-2. ❗️ Opened issue [#4](https://github.com/newgentdigital/kloey/issues/4) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-3. ❗️ Opened issue [#1](https://github.com/newgentdigital/kloey/issues/1) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-4. 🎉 Merged PR [#1](https://github.com/xenforq/menu-rules/pull/1) in [xenforq/menu-rules](https://github.com/xenforq/menu-rules)
-5. ❗️ Reopened issue [#414](https://github.com/papercups-io/papercups/issues/414) in [papercups-io/papercups](https://github.com/papercups-io/papercups)
+1. ❗️ Opened issue [#712](https://github.com/Miodec/monkeytype/issues/712) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
+2. ❗️ Opened issue [#5](https://github.com/newgentdigital/kloey/issues/5) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+3. ❗️ Opened issue [#4](https://github.com/newgentdigital/kloey/issues/4) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+4. ❗️ Opened issue [#1](https://github.com/newgentdigital/kloey/issues/1) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+5. 🎉 Merged PR [#1](https://github.com/xenforq/menu-rules/pull/1) in [xenforq/menu-rules](https://github.com/xenforq/menu-rules)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
