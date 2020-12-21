@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#744](https://github.com/Miodec/monkeytype/issues/744) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
-2. ❗️ Opened issue [#6](https://github.com/newgentdigital/kloey/issues/6) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-3. ❗️ Opened issue [#737](https://github.com/Miodec/monkeytype/issues/737) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
-4. ❗️ Opened issue [#712](https://github.com/Miodec/monkeytype/issues/712) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
-5. ❗️ Opened issue [#5](https://github.com/newgentdigital/kloey/issues/5) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+1. ❗️ Closed issue [#737](https://github.com/Miodec/monkeytype/issues/737) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
+2. 🗣 Commented on [#737](https://github.com/Miodec/monkeytype/issues/737) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
+3. 🗣 Commented on [#744](https://github.com/Miodec/monkeytype/issues/744) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
+4. ❗️ Opened issue [#6](https://github.com/newgentdigital/kloey/issues/6) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+5. ❗️ Opened issue [#737](https://github.com/Miodec/monkeytype/issues/737) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
