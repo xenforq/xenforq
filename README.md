@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1295](https://github.com/spaam/svtplay-dl/issues/1295) in [spaam/svtplay-dl](https://github.com/spaam/svtplay-dl)
+1. ❗️ Opened issue [#20](https://github.com/newgentdigital/kloey/issues/20) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
 2. 🗣 Commented on [#1295](https://github.com/spaam/svtplay-dl/issues/1295) in [spaam/svtplay-dl](https://github.com/spaam/svtplay-dl)
-3. ❗️ Opened issue [#19](https://github.com/newgentdigital/kloey/issues/19) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-4. ❗️ Opened issue [#18](https://github.com/newgentdigital/kloey/issues/18) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-5. 💪 Opened PR [#887](https://github.com/parkervcp/eggs/pull/887) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+3. 🗣 Commented on [#1295](https://github.com/spaam/svtplay-dl/issues/1295) in [spaam/svtplay-dl](https://github.com/spaam/svtplay-dl)
+4. ❗️ Opened issue [#19](https://github.com/newgentdigital/kloey/issues/19) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+5. ❗️ Opened issue [#18](https://github.com/newgentdigital/kloey/issues/18) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
