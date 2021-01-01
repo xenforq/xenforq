@@ -53,6 +53,6 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 Okay, I must admit, I find these stats amusing myself. I hope that makes you feel less left out.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xenforq&count_private=true&show_icons=true&bg_color=1d1d1d&text_color=e9e9e9&title_color=e9e9e9&icon_color=ffaf40" alt="An image showing summarized stats on GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenforq&layout=compact&bg_color=1d1d1d&text_color=e9e9e9&title_color=e9e9e9&langs_count=3" alt="An image showing summarized stats on GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=xenforq&hide_border=true&bg_color=1d1d1d&title_color=e9e9e9&text_color=e9e9e9&include_all_commits=true&count_private=true&show_icons=true&icon_color=ffaf40" alt="An image showing summarized stats on GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenforq&hide_border=true&bg_color=1d1d1d&title_color=e9e9e9&text_color=e9e9e9&layout=compact&langs_count=4" alt="An image showing summarized stats on GitHub">
 </p>
