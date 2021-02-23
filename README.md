@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/newgentdigital/kloey/issues/26) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-2. ❗️ Opened issue [#25](https://github.com/newgentdigital/kloey/issues/25) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-3. ❗️ Opened issue [#24](https://github.com/newgentdigital/kloey/issues/24) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-4. ❗️ Opened issue [#23](https://github.com/newgentdigital/kloey/issues/23) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-5. ❗️ Closed issue [#19](https://github.com/newgentdigital/kloey/issues/19) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+1. 💪 Opened PR [#1](https://github.com/Atlas-OS/Atlas/pull/1) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+2. ❗️ Opened issue [#26](https://github.com/newgentdigital/kloey/issues/26) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+3. ❗️ Opened issue [#25](https://github.com/newgentdigital/kloey/issues/25) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+4. ❗️ Opened issue [#24](https://github.com/newgentdigital/kloey/issues/24) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+5. ❗️ Opened issue [#23](https://github.com/newgentdigital/kloey/issues/23) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
