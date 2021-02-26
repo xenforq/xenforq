@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Atlas-OS/Atlas/issues/3) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-2. 💪 Opened PR [#2](https://github.com/Atlas-OS/Atlas/pull/2) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-3. 💪 Opened PR [#1](https://github.com/Atlas-OS/Atlas/pull/1) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-4. ❗️ Opened issue [#26](https://github.com/newgentdigital/kloey/issues/26) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
-5. ❗️ Opened issue [#25](https://github.com/newgentdigital/kloey/issues/25) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+1. 🗣 Commented on [#286](https://github.com/ViaVersion/ViaRewind/issues/286) in [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind)
+2. ❗️ Opened issue [#3](https://github.com/Atlas-OS/Atlas/issues/3) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+3. 💪 Opened PR [#2](https://github.com/Atlas-OS/Atlas/pull/2) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+4. 💪 Opened PR [#1](https://github.com/Atlas-OS/Atlas/pull/1) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+5. ❗️ Opened issue [#26](https://github.com/newgentdigital/kloey/issues/26) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
