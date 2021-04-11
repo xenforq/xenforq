@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-2. 🗣 Commented on [#15](https://github.com/Atlas-OS/Atlas/issues/15) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-3. ❗️ Opened issue [#15](https://github.com/Atlas-OS/Atlas/issues/15) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-4. 💪 Opened PR [#1](https://github.com/Atlas-OS/Atlas/pull/1) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-5. ❗️ Opened issue [#26](https://github.com/newgentdigital/kloey/issues/26) in [newgentdigital/kloey](https://github.com/newgentdigital/kloey)
+1. 🗣 Commented on [#3494](https://github.com/PreMiD/Presences/issues/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 💪 Opened PR [#3494](https://github.com/PreMiD/Presences/pull/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. ❗️ Opened issue [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+4. 🗣 Commented on [#15](https://github.com/Atlas-OS/Atlas/issues/15) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+5. ❗️ Opened issue [#15](https://github.com/Atlas-OS/Atlas/issues/15) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
