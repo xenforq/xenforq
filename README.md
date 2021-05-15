@@ -1,42 +1,19 @@
 <!-- HEADER -->
-# Hey, I'm William. 👋
 <a href="https://williamhallin.com"><img src="https://raw.githubusercontent.com/whallin/whallin/master/img_header.png" alt="A banner showing the William Hallin logo."></a>
 
-<!-- SOCIALS -->
-<p align="center">
-	<a href="https://twitter.com/w_hallin">
-      	<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Button with the Twitter logo and colors.">
-  </a>
-	<a href="https://instagram.com/williamhallin">
-      	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Button with the Instagram logo and colors.">
-  </a>
-	<a href="https://youtube.com/williamhallin">
-      	<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Button with the YouTube logo and colors.">
-  </a>
-	<a href="https://dribbble.com/whallin/">
-      	<img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="Button with the Facebook logo and colors.">
-  </a>
-	<a href="https://linkedin.com/in/williamhallin/">
-      	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Button with the LinkedIn logo and colors.">
-  </a>
- 	<img src="https://badges.pufler.dev/visits/whallin/whallin?style=for-the-badge">
-</p>
+<!-- VISITS -->
+<p align="center"><img src="https://badges.pufler.dev/visits/whallin/whallin?style=for-the-badge"></p>
 
-<!-- BIOGRAPHY -->
-### ❓ Who am I?
-I'm William Hallin. A designer, video producer, and web developer passionate about his work—making high-quality products and services with effort. I'm frequently seen wandering around the land of GitHub, looking at repositories with sparking interests and reporting issues.
+<!-- INTRODUCTION -->
+## 👋 I'm William Hallin
+I'm William Hallin, a young freelancer located in the northern Sweden city named Skellefteå. *(it's a lovely place, I must admit)*
 
-<!-- CONTACT -->
-### 📞 Contact me 
-Do you have any questions for me? Got interests in collaborating? Maybe wanna chat about whatever for a bit? 
+I got myself interested in the world of digital art (graphics & motion design) at the age of 10, but it wasn't until I was 14-years-old that I decided to aim to make this something long term for myself. Thank my 14-year-old self for being here currently. 💛
 
-You've got multiple ways to contact me; pick freely how you want to reach me. <a href="https://t.me/whalllin">Telegram</a> and Discord (William#4567) are the preferred options for me; you'll also be getting a faster response out of me then—but if <a href="https://twitter.com/w_hallin">Twitter</a> or <a href="mailto:hello@xenforq.com?subject=Hey William!">email</a> fits you better, then I don't mind. 
-
-<!-- hr -->
-<hr>
+As my days passes by, I spend any free-time I can find experimenting with digital design and video production to let me find new and creative ways to build the stories I want to tell. I'll go ahead and open up my After Effects and play around with some of my stock footage, or go outside and experiment with my camera and its settings to achieve [that](https://assets.super.so/williamhallin.com/images/1cf3b0aa-4a30-47b4-8cec-1b5de7113290.jpg) image. *(well maybe not that, but you get the point)*
 
 <!-- ACTIVITY -->
-### ⚡️ Recent activity
+### ⚡️ Recent GitHub activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/whallin/menu-rules/pull/2) in [whallin/menu-rules](https://github.com/whallin/menu-rules)
 2. 🗣 Commented on [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
@@ -45,14 +22,14 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 5. 💪 Opened PR [#3494](https://github.com/PreMiD/Presences/pull/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
-<!-- hr -->
-<hr>
+<!-- CONTACT -->
+## 📞 Contact me
+You've got multiple ways to contact me; pick freely how you want to reach me. <a href="https://t.me/whallin">Telegram</a> and Discord (William#4567) are the preferred options for me; you'll also be getting a faster response out of me then—but if <a href="https://twitter.com/w_hallin">Twitter</a> or <a href="mailto:me@williamhallin.com?subject=Hey William!">email</a> fits you better, then I don't mind. 
+
+<!-- FIND ME ELSEWHERE -->
+### 🌐 Find me elsewhere
+Visit https://williamhallin.com/links to find a complete list of additional platforms I'm available on.
 
 <!-- GITHUB STATS -->
-### Statistics for nerds 📊
-Okay, I must admit, I find these stats amusing myself. I hope that makes you feel less left out.</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whallin&hide_border=true&bg_color=1d1d1d&title_color=e9e9e9&text_color=e9e9e9&include_all_commits=true&count_private=true&show_icons=true&icon_color=ffaf40" alt="An image showing summarized stats on GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whallin&hide_border=true&bg_color=1d1d1d&title_color=e9e9e9&text_color=e9e9e9&layout=compact&langs_count=4" alt="An image showing summarized stats on GitHub">
-</p>
+## 📊 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=whallin&hide_border=true&bg_color=221D04&title_color=CDA40B&text_color=CDA40B&include_all_commits=true&count_private=true&show_icons=true&icon_color=ffaf40" alt="An image showing summarized stats on GitHub">
