@@ -38,11 +38,11 @@ You've got multiple ways to contact me; pick freely how you want to reach me. <a
 <!-- ACTIVITY -->
 ### ⚡️ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+1. 🎉 Merged PR [#2](https://github.com/whallin/menu-rules/pull/2) in [whallin/menu-rules](https://github.com/whallin/menu-rules)
 2. 🗣 Commented on [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-3. 🗣 Commented on [#3494](https://github.com/PreMiD/Presences/issues/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. 💪 Opened PR [#3494](https://github.com/PreMiD/Presences/pull/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. ❗️ Opened issue [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+3. 🗣 Commented on [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+4. 🗣 Commented on [#3494](https://github.com/PreMiD/Presences/issues/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. 💪 Opened PR [#3494](https://github.com/PreMiD/Presences/pull/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 <!-- hr -->
