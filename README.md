@@ -15,11 +15,11 @@ As my days passes by, I spend any free-time I can find experimenting with digita
 <!-- ACTIVITY -->
 ### ⚡️ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/whallin/menu-rules/pull/2) in [whallin/menu-rules](https://github.com/whallin/menu-rules)
-2. 🗣 Commented on [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+1. ❗️ Opened issue [#27](https://github.com/TreyRuffy/CommandBlocker/issues/27) in [TreyRuffy/CommandBlocker](https://github.com/TreyRuffy/CommandBlocker)
+2. 🎉 Merged PR [#2](https://github.com/whallin/menu-rules/pull/2) in [whallin/menu-rules](https://github.com/whallin/menu-rules)
 3. 🗣 Commented on [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-4. 🗣 Commented on [#3494](https://github.com/PreMiD/Presences/issues/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. 💪 Opened PR [#3494](https://github.com/PreMiD/Presences/pull/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. 🗣 Commented on [#18](https://github.com/Atlas-OS/Atlas/issues/18) in [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+5. 🗣 Commented on [#3494](https://github.com/PreMiD/Presences/issues/3494) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 <!-- CONTACT -->
